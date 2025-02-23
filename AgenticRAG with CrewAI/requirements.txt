@@ -1,0 +1,6 @@
+streamlit
+re
+crewai
+langchain
+faiss-cpu
+huggingface_hub
