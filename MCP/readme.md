@@ -31,7 +31,7 @@ This project demonstrates a lightweight multi-agent system powered by **MCP (Mod
 1. **Clone the repo**:
 
 ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/vikrambhat2/AgenticRAG.git
    cd your-repo-name
 ```
 
